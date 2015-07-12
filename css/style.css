@@ -1,0 +1,246 @@
+body {
+    
+}
+
+/** Typography **/
+
+h1 {
+	font-weight: bold;
+	margin-bottom: 30px;
+}
+
+/** Navigation Bar **/
+
+.nav {
+	margin-top: 15px;
+	margin-bottom: 5px;
+	background-color: none;
+}
+
+.nav li a,
+.nav li a:hover {
+	background: none;
+	color: #002147;
+	font-size: 1em;
+	font-family: lato;
+	font-weight: bold;
+	margin-right: 0;
+}
+
+/** Logos **/
+
+.main-logo img {
+	width: 200px;
+    height: 55px;
+    padding-top: 18px;
+    padding-bottom: 1px;
+    margin-left: 0;
+    margin-bottom: 15px;
+}
+
+/** Jumbotron **/
+
+.jumbotron {
+	position: relative;
+	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/students.jpeg');
+	opacity: 0.8;
+	background-repeat: no-repeat;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	height: 100%;
+	padding-top: 105px;
+	padding-bottom: 165px;
+	text-align: center;
+}
+
+.jumbotron h1 {
+	font-size: 6em;
+	color: #fff;
+	text-align: center;
+	font-family: lato;
+}
+
+.jumbotron h4 {
+	color: #fff;
+	text-align: center;
+	font-style: italic;
+	font-weight: bold;
+	font-family: lato;
+}
+
+/** Main Content Layout **/
+
+.main {
+	padding-bottom: 30px;
+}
+
+.main h2 {
+	text-align: center;
+	color: #002147;
+	font-family: lato;
+	font-weight: bold;
+	padding-bottom: 42px;
+}
+
+.main h3 {
+	color: #4A90E2;
+	font-family: lato;
+}
+
+.main p {
+	color: #002147;
+	font-family: lato;
+}
+
+.ft {
+	margin-bottom: 72px;
+}
+
+.ft-copy {
+	padding-top: 32px;
+}
+
+/** Team **/
+
+.team {
+	background-color: #002147;
+	padding-bottom: 50px;
+	padding-top: 30px;
+}
+
+.team h2 {
+	color: #fff;
+	font-family: lato;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+.team-member {
+	margin-bottom: 50px;
+	text-align: center;
+	font-family: lato;
+}
+
+.team-member img {
+    margin: 0 auto;
+    border: 7px solid #4A90E2;
+    height: 200px; 
+   	width: 200px; 
+    overflow: hidden;
+}
+
+.team-member h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+    color: #4A90E2;
+}
+
+.team-member p {
+    margin-top: 0;
+    color: #fff;
+}
+
+.goal p {
+	font-family: lato;
+	font-size: 1.5em;
+	color: #fff;
+
+}
+
+/** MailChimp Signup **/
+
+.signup-form {
+	background-image: url('../img/cs-pattern.png');
+	position: relative;
+	width: 100%;
+	padding-left: 380px;
+	padding-right: 380px;
+	padding-top: 70px;
+	padding-bottom: 70px;
+}
+
+.signup-form h2 {
+	padding-bottom: 20px;
+	color: #002147;
+	font-family: lato;
+	font-weight: bold;
+	text-align: center;
+}
+
+#mc_embed_signup {
+	width: 650px;
+	text-align: center;
+	padding-bottom: 50px;
+	padding-top: 20px;
+	border: 7px solid #002147;
+}
+
+.mc-field-group {
+	color: #002147;
+	font-family: lato;
+	padding-bottom: 15px;
+}
+
+/** Icons **/
+
+.ft-icon {
+	width: 94%;
+	height: 196px;
+	position: relative;
+	background: #002147 no-repeat 270px -180px;
+	background-size: 140%;
+}
+
+.ft-icon.two {
+	background-position: -500px 0; 
+}
+
+.ft-icon.three {
+	background-position: 260px 0;
+}
+
+/** Footer **/
+
+footer {
+    padding: 25px 0;
+    text-align: center;
+    background-color: #002147;
+}
+
+footer span.copyright {
+    text-transform: uppercase;
+    text-transform: none;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 40px;
+}
+
+footer ul.quicklinks {
+    margin-bottom: 0;
+    text-transform: uppercase;
+    text-transform: none;
+    font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 40px;
+}
+
+.love {
+	color: #4A90E2;
+	line-height: 40px;
+}
+
+.love a {
+	color: #fd5c63;
+}
+
+
+
+
+
+
+
+
+
+
+
