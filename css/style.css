@@ -122,7 +122,6 @@ h1 {
 .team-member img {
     margin: 0 auto;
     border: 7px solid #4A90E2;
-    height: 200px; 
    	width: 200px; 
     overflow: hidden;
 }
