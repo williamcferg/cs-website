@@ -64,7 +64,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 
 /** Jumbotron **/
 
-.jumbotron {
+.wrap {
 	position: relative;
 	background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../img/students.jpeg');
 	opacity: 0.8;
@@ -73,25 +73,31 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height: 70%;
-	padding-top: 105px;
-	padding-bottom: 165px;
+	height: 93%;
+}
+
+.jumbotron {
+	background-color: transparent;
+	padding-top: 7%;
 	text-align: center;
+
 }
 
 .jumbotron h1 {
-	font-size: 6em;
+	font-size: 5em;
 	color: #fff;
-	text-align: center;
-	font-family: lato;
+	font-family: sans-serif;
+	margin-bottom: 5px;
 }
 
-.jumbotron h4 {
+.jumbotron h2 {
+	margin-top: 5px;
+	margin-bottom:20px;
+	font-size: 2em;
 	color: #fff;
-	text-align: center;
 	font-style: italic;
 	font-weight: bold;
-	font-family: lato;
+	font-family: sans-serif;
 }
 
 /** Main Content Layout **/
