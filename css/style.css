@@ -36,16 +36,15 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 }
 
 .nav {
-	margin-top: 15px;
+	margin-top: 25px;
 	margin-bottom: 5px;
 	background-color: none;
 }
 
-.nav li a,
-.nav li a:hover {
+.nav li a {
 	background: none;
 	color: #002147;
-	font-size: 1em;
+	font-size: 1.3em;
 	font-family: lato;
 	font-weight: bold;
 	margin-right: 0;
@@ -54,8 +53,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 /** Logos **/
 
 .main-logo img {
-	width: 200px;
-    height: 55px;
+	width: 300px;
     padding-top: 18px;
     padding-bottom: 1px;
     margin-left: 0;
@@ -78,7 +76,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 
 .jumbotron {
 	background-color: transparent;
-	padding-top: 7%;
+	padding-top: 150px;
 	text-align: center;
 
 }
@@ -91,7 +89,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 }
 
 .jumbotron h2 {
-	margin-top: 5px;
+	margin-top: 20px;
 	margin-bottom:20px;
 	font-size: 2em;
 	color: #fff;
