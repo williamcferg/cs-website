@@ -32,7 +32,7 @@ h1 {
 /** Navigation Bar **/
 
 ul.nav li.dropdown:hover > ul.dropdown-menu {
-    display: block;    
+    display: block;
 }
 
 .nav {
