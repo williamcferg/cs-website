@@ -74,6 +74,14 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
     margin-bottom: 15px;
 }
 
+@media only screen and (max-device-width: 420px) {
+
+	.main-logo img {
+		margin-bottom: 0px;
+	}
+	
+}
+
 
 /** Jumbotron **/
 
