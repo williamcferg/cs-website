@@ -76,7 +76,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 
 @media only screen and (max-device-width: 480px) {
 	.wrap {
-		height: 2000px;
+		height: 150%;
 	}
 }
 
