@@ -74,6 +74,12 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	height: 100%;
 }
 
+@media only screen and (max-device-width: 480px) {
+	.wrap {
+		height: 2000px;
+	}
+}
+
 .jumbotron {
 	background-color: transparent;
 	padding-top: 150px;
