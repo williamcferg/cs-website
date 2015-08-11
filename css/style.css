@@ -47,21 +47,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	font-size: 1.3em;
 	font-family: lato;
 	font-weight: bold;
-}
-
-@media only screen and (max-device-width: 420px) {
-	.navbar-nav {
-        margin: 0 auto;
-        display: table;
-        table-layout: auto;
-        float: none;
-        width: 100%;
-    }
-    .navbar-nav>li {
-        display: table-cell;
-        float: none;
-        text-align: center;
-    }
+	margin-right: 0;
 }
 
 /** Logos **/
@@ -73,7 +59,6 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
     margin-left: 0;
     margin-bottom: 15px;
 }
-
 
 /** Jumbotron **/
 
