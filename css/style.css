@@ -73,7 +73,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height: 93%;
+	height: 100%;
 }
 
 .jumbotron {
