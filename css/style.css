@@ -90,9 +90,19 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	font-size: 2em;
 	color: #fff;
 	font-style: italic;
-	font-weight: bold;
+	font-weight: lighter;
 	font-family: sans-serif;
 }
+
+.jumbotron h3 {
+	font-size: 2em;
+	color: #fff;
+	font-weight: lighter;
+	font-family: sans-serif;
+	margin: 40px auto;
+	max-width: 800px;
+}
+
 
 /** Main Content Layout **/
 
