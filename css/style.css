@@ -53,7 +53,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 
 .main-logo img {
 	width: 200px;
-    padding-top: 18px;
+    padding-top: 10px;
     padding-bottom: 1px;
     margin-left: 0;
     margin-bottom: 15px;
@@ -70,7 +70,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height: 90%;
+	height: 100%;
 	text-align: center;
 	padding-top: 105px;
 	padding-bottom: 165px;
@@ -85,7 +85,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 }
 
 .jumbotron h2 {
-	margin-top: 20px;
+	margin-top: 15px;
 	margin-bottom:20px;
 	font-size: 2em;
 	color: #fff;
