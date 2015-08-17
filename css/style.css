@@ -70,7 +70,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
-	height: 80%;
+	min-height: 80%;
 	text-align: center;
 	padding-bottom: 165px;
 }
