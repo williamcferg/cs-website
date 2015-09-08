@@ -295,24 +295,25 @@ footer p {
 
 /** Our Classes **/
 
-.class-description {
-	background-color: #002147;
-	padding-bottom: 50px;
-	padding-top: 30px;
-}
+/*.class-description {*/
+/*	background-color: #002147;*/
+/*	padding-bottom: 50px;*/
+/*	padding-top: 30px;*/
+/*	font-family: lato;*/
+/*}*/
 
-.team h2 {
-	color: #fff;
-	font-family: lato;
-	font-weight: bold;
-	padding-bottom: 20px;
-}
+/*.team h2 {*/
+/*	color: #fff;*/
+/*	font-family: lato;*/
+/*	font-weight: bold;*/
+/*	padding-bottom: 20px;*/
+/*}*/
 
 
 /** Class Description **/
 
 .class-description {
-	background-color: #4A90E2;
+	background-color: #4A90E2;;
 	padding-bottom: 50px;
 	padding-top: 30px;
 }
