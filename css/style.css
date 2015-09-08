@@ -134,6 +134,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 	font-size: 1.05em;
 }
 
+
 /** Team **/
 
 .team {
@@ -288,6 +289,23 @@ footer p {
 
 .love a {
 	color: #fd5c63;
+}
+
+
+
+/** Our Classes **/
+
+.class-description {
+	background-color: #002147;
+	padding-bottom: 50px;
+	padding-top: 30px;
+}
+
+.team h2 {
+	color: #fff;
+	font-family: lato;
+	font-weight: bold;
+	padding-bottom: 20px;
 }
 
 
