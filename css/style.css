@@ -325,27 +325,27 @@ footer p {
 	padding-bottom: 20px;
 }
 
-.team-member {
+.team-member2 {
 	margin-bottom: 50px;
 	text-align: center;
 	font-family: lato;
 }
 
-.team-member img {
+.team-member2 img {
     margin: 0 auto;
     border: 7px solid #4A90E2;
    	width: 200px; 
     overflow: hidden;
 }
 
-.team-member h4 {
+.team-member2 h4 {
     margin-top: 25px;
     margin-bottom: 0;
     text-transform: none;
     color: #fff;
 }
 
-.team-member p {
+.team-member2 p {
     margin-top: 0;
     color: #fff;
 }
