@@ -309,7 +309,52 @@ footer p {
 }
 
 
+/** Class Description **/
 
+.class-description {
+	background-color: #4A90E2;
+	padding-bottom: 50px;
+	padding-top: 30px;
+}
+
+.team h2 {
+	color: #fff;
+	font-family: lato;
+	font-weight: bold;
+	padding-bottom: 20px;
+}
+
+.team-member {
+	margin-bottom: 50px;
+	text-align: center;
+	font-family: lato;
+}
+
+.team-member img {
+    margin: 0 auto;
+    border: 7px solid #4A90E2;
+   	width: 200px; 
+    overflow: hidden;
+}
+
+.team-member h4 {
+    margin-top: 25px;
+    margin-bottom: 0;
+    text-transform: none;
+    color: #fff;
+}
+
+.team-member p {
+    margin-top: 0;
+    color: #fff;
+}
+
+.goal p {
+	font-family: lato;
+	font-size: 1.5em;
+	color: #fff;
+
+}
 
 
 
