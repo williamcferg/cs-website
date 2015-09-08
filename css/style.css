@@ -158,7 +158,7 @@ ul.nav li.dropdown:hover > ul.dropdown-menu {
 
 .team-member img {
     margin: 0 auto;
-    border: 7px solid #4A90E2;
+    /*border: 7px solid #4A90E2;*/
    	width: 200px; 
     overflow: hidden;
 }
